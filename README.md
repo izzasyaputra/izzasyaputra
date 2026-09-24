@@ -1,16 +1,15 @@
-## Hi there 👋
+### Halo, saya Muhammad Haikal Izza Syaputra 👋
 
-<!--
-**izzasyaputra/izzasyaputra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Saya adalah seorang mahasiswa yang sedang aktif belajar pemrograman dan pengembangan perangkat lunak.
 
-Here are some ideas to get you started:
+- 🔭 Saya lagi sibuk mengerjakan berbagai tugas kuliah dan proyek pemrograman.
+- ⚡ Ketertarikan saya meliputi pengembangan aplikasi, analisis data, dan teknologi web.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Bahasa & Teknologi
+* **Bahasa Pemrograman:** Java, Python, JavaScript
+* **Tools:** VS Code, Git, GitHub, CapCut
+
+### 📫 Hubungi Saya
+* GitHub: [@izzasyaputra](https://github.com/izzasyaputra)
